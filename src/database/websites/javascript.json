@@ -1,0 +1,79 @@
+[
+  {
+    "tag": "js",
+    "title": "javascripttutorial.net",
+    "description": "Welcome to the JavaScriptTutorial.net website! This JavaScript Tutorial helps you learn the JavaScript programming language from scratch quickly and effectively.",
+    "link": "https://www.javascripttutorial.net/",
+    "img": "https://user-images.githubusercontent.com/100681165/238201936-82afafd5-84b1-45ce-af56-d7ac1483dbcc.png"
+  },
+  {
+    "tag": "js",
+    "title": "javascript.info",
+    "description": "The Modern JavaScript Tutorial. From the basics to advanced topics with simple, but detailed explanations. Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP. We concentrate on the language itself here, with the minimum of environment-specific notes.",
+    "link": "https://javascript.info/",
+    "img": "https://user-images.githubusercontent.com/100681165/238201933-6469009c-e38c-4f60-aa70-0551d7ca196a.png"
+  },
+  {
+    "tag": "js",
+    "title": "codecademy",
+    "description": "Learn how to use JavaScript — a powerful and flexible programming language for adding website interactivity.",
+    "link": "https://www.codecademy.com/learn/introduction-to-javascript",
+    "img": "https://user-images.githubusercontent.com/118375524/240303440-0021fd59-c451-4ea5-a514-1ed18a529e20.png"
+  },
+  {
+    "tag": "js",
+    "title": "chartkick",
+    "description": "Learn how to use JavaScript — Create beautiful JavaScript charts with one line of Ruby.",
+    "link": "https://chartkick.com/",
+    "img": "https://github.com/jayk-gupta/web-resources-project/assets/114330097/47850c6f-79eb-4e95-b506-aa43de463c78"
+  },
+  {
+    "tag": "js",
+    "title": "flex-monster",
+    "description": "Learn how to use JavaScript — The most powerful JavaScript tool for visualizing your business data.",
+    "link": "https://www.flexmonster.com/",
+    "img": "https://github.com/jayk-gupta/web-resources-project/assets/114330097/d0fd011f-12fe-4756-bebe-5d2fdf79d7ee"
+  },
+  {
+    "tag": "js",
+    "title": "chartjs",
+    "description": "Learn how to use JavaScript — Simple yet flexible JavaScript charting library for the modern web.",
+    "link": "https://www.chartjs.org/",
+    "img": "https://github.com/jayk-gupta/web-resources-project/assets/114330097/7179245f-e697-48df-a04a-7dcfd56a51d8"
+  },
+  {
+    "tag": "js",
+    "title": "Studytonight",
+    "description": "Discover Coding Step-by-Step: Learn interactively with simple lessons and coding exercises",
+    "link": "https://www.studytonight.com/",
+    "img": "https://rb.gy/scnw5"
+  },
+  {
+    "tag": "js"
+    "title": "Programiz",
+    "description": "Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.",
+    "link": "https://www.programiz.com/",
+    "img": "https://rb.gy/j1mth"
+  },
+  {
+    "tag":"js",
+    "title": "DevDocs",
+    "description":"DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.",
+    "link":"https://devdocs.io/javascript/",
+    "img":"https://rb.gy/9z0te"
+  },
+  {
+    "tag": "js",
+    "title": "W3School",
+    "description": "JavaScript is the programming language of the Web. This tutorial will teach you JavaScript from basic to advanced.",
+    "link": "https://www.w3schools.com/js/",
+    "img": "https://raw.githubusercontent.com/jayk-gupta/web-resources-project/main/public/images%20original/jsw_w3.png"
+  },
+  {
+    "tag": "js",
+    "title": "33 JS Concepts",
+    "description": "33 Concepts Every JavaScript Developer Should Know.",
+    "link": " https://github.com/leonardomso/33-js-concepts",
+    "img": "https://github.com/jayk-gupta/web-resources-project/assets/104543751/8b73bcd4-325a-40b3-a536-fe721172d3a6"
+  }
+]
